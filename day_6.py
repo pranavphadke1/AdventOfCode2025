@@ -1,5 +1,4 @@
 day = 6
-day = "6a"
 
 with open(f"Inputs/day{day}.txt") as f:
     lines = f.read().splitlines()
